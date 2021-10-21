@@ -6,7 +6,7 @@ Creative Commons Attribution 4.0 International CC BY 4.0
 
 ![screenshot](images/assembly_front_view.png)
 
-![screenshot](images/assemgly_rear_view.png)
+![screenshot](images/assembly_rear_view.png)
 
 ![screenshot](images/adapter_ring.png)
 
