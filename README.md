@@ -4,5 +4,11 @@ Hardware design files for ring light mount designed for Nikon AF Micro Nikkor le
 # License: 
 Creative Commons Attribution 4.0 International CC BY 4.0
 
-![screenshot](images/screenshot.png)
+![screenshot](images/assembly_front_view.png)
+
+![screenshot](images/assemgly_rear_view.png)
+
+![screenshot](images/adapter_ring.png)
+
+
 
